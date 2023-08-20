@@ -43,4 +43,9 @@ gap:15px;" >
 
 ## ⭐ Stats
 
-![Top dd](https://github-readme-stats.vercel.app/api/top-langs/?username=naquodev&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naquodev&hide_progress=true)
+
+## 🌐 Networks
+<a href="https://naquodev.com" >Website</a>
+<a href="https://www.instagram.com/naquodev" >Instagram</a>
+<a href="https://twitter.com/naquodev" >Twitter</a>
