@@ -16,7 +16,8 @@
 !https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
 
 ### Backend
-!https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg
+!<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+          
 
 ### Tools
 !https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
@@ -30,4 +31,4 @@
 ```
 
 ## ⭐ Stats
-![Naquo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Naquo's GitHub stats](https://github-readme-stats.vercel.app/api?username=naquodev&hide=contribs,prs)
