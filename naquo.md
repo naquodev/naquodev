@@ -49,7 +49,7 @@ gap:15px;" >
 <div style="display:flex;
 gap:15px; flex-direction:column;" >
  
-  <a style="color:#ff6736;" href="https://naquodev.com" >Website</a>
-  <a style="color:#ff6736;" href="https://www.instagram.com/naquodev" >Instagram</a>
-  <a style="color:#ff6736;" href="https://twitter.com/naquodev" >Twitter</a>
+  <a target="_blank" style="color:#ff6736;" href="https://naquodev.com" >Website</a>
+  <a target="_blank" style="color:#ff6736;" href="https://www.instagram.com/naquodev" >Instagram</a>
+  <a target="_blank" style="color:#ff6736;" href="https://twitter.com/naquodev" >Twitter</a>
 </div>
