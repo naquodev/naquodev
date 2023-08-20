@@ -46,6 +46,10 @@ gap:15px;" >
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naquodev&hide_progress=true)
 
 ## 🌐 Networks
-<a href="https://naquodev.com" >Website</a>
-<a href="https://www.instagram.com/naquodev" >Instagram</a>
-<a href="https://twitter.com/naquodev" >Twitter</a>
+<div style="display:flex;
+gap:15px; flex-direction:column;" >
+ 
+  <a style="color:#ff6736;" href="https://naquodev.com" >Website</a>
+  <a style="color:#ff6736;" href="https://www.instagram.com/naquodev" >Instagram</a>
+  <a style="color:#ff6736;" href="https://twitter.com/naquodev" >Twitter</a>
+</div>
